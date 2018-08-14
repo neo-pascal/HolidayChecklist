@@ -1,0 +1,30 @@
+
+Holiday Checklist
+=================
+
+Please enter the holiday destination? France
+Please enter how many items you need to pack for your holiday to France? 5
+Please enter the number of tasks you need to complete to prepare? 3
+
+Item List
+---------
+
+Please enter description for item 1/5? Hat
+Please enter description for item 2/5? Shirt
+Please enter description for item 3/5? Trousers
+Please enter description for item 4/5? Socks
+Please enter description for item 5/5? Shoes
+
+Task List
+---------
+
+Please enter description for task 1/3? Currency
+Please enter description for task 2/3? Travel
+Please enter description for task 3/3? Accommodation
+
+Checklist has been saved to <HolidayChecklist.dat> comprising of 11 values
+
+checklist = ['France', '5', '3', 'Hat', 'Shirt', 'Trousers', 'Socks', 'Shoes', 'Currency', 'Travel', 'Accommodation']
+
+Process finished with exit code 0
+
